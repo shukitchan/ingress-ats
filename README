@@ -1,0 +1,15 @@
+Changes to records.config
+
+1) pristine_host_header
+2) cache
+3) debug log
+4) ascii log
+
+To-do
+1) Container security
+2) tests
+3) CI
+4) caching
+5) capability study
+6) healthcheck
+
